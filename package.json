@@ -1,0 +1,8 @@
+{
+  "name": "hono-vite-rpc",
+  "type": "module",
+  "version": "1.0.0",
+  "devDependencies": {
+    "prettier": "^3.5.2"
+  }
+}
