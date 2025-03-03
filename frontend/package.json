@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@hono-vite-rpc/backend": "workspace:*",
+    "@hono-vite-rpc/backend": "1.0.0",
     "hono": "^4.7.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
