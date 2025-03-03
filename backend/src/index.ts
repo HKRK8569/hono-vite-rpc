@@ -1,6 +1,5 @@
 import { serve } from '@hono/node-server'
 import { Hono } from 'hono'
-import { hc } from 'hono/client'
 import { cors } from 'hono/cors'
 
 const app = new Hono()
