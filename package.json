@@ -3,7 +3,10 @@
   "type": "module",
   "version": "1.0.0",
   "devDependencies": {
-    "prettier": "^3.5.2"
+    "prettier": "^3.5.2",
+    "typescript": "~5.7.2",
+    "typescript-eslint": "^8.24.1",
+    "@types/node": "^20.11.17"
   },
   "workspaces": [
     "frontend",
