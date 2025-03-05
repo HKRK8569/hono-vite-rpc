@@ -2,6 +2,10 @@
   "name": "hono-vite-rpc",
   "type": "module",
   "version": "1.0.0",
+  "scripts": {
+    "dev:frontend": "npm run dev -w frontend",
+    "dev:backend": "npm run dev -w frontend"  
+  },
   "devDependencies": {
     "prettier": "^3.5.2",
     "typescript": "~5.7.2",
